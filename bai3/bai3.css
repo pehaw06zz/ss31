@@ -1,0 +1,31 @@
+.container {
+    width: 450px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+  }
+  
+  .colors {
+    display: flex;
+    gap: 10px;
+  }
+  .square {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border: 1px solid black;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+  }
+  .green {
+    background-color: green;
+  } 
+  .red {
+    background-color: red;
+  } 
+  .purple {
+    background-color: violet;
+  }
+  

@@ -1,0 +1,16 @@
+#myText{
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+button{
+  font-size: 30px;
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: white;
+  border: 3px solid #666;
+  border-radius: 10px;
+  cursor: pointer;
+}
+button:hover{
+  background-color: rgb(198, 195, 195);
+}
